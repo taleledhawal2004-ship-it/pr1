@@ -1,0 +1,249 @@
+2024-10-07 10:58:00,440 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 25.0, category: Food, notes: vadapav
+2024-10-07 12:56:53,810 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 12:58:07,082 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:12:55,021 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:40,491 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:42,325 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:42,803 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:42,846 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:43,131 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:43,179 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:43,465 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:43,513 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:14:43,813 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:16:26,652 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:18:56,349 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:21:37,824 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:22:32,507 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:42:07,017 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:42:17,232 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 13:42:17,245 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:05:37,265 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:05:46,088 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:05:47,475 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:05:48,363 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:05:48,419 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:05:49,561 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:05:50,540 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:06:04,039 - db_helper - INFO - fetch_expenses_for_date for 2024-08-07
+2024-10-07 14:06:09,624 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:06:12,012 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:18:11,047 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:19:19,393 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:19:19,427 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:19:30,743 - db_helper - INFO - fetch_expenses_for_date for 2024-08-02
+2024-10-07 14:19:38,859 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 14:38:09,445 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 15:10:54,063 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 15:16:06,803 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-02 end: 2024-08-03
+2024-10-07 15:46:47,749 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 16:00:02,036 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 16:04:57,325 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 16:12:31,655 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 16:23:23,675 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:29:23,788 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:32:02,262 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:34:22,637 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:36:41,744 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:37:07,967 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:37:12,572 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:37:12,609 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 16:37:36,457 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:37:36,496 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 16:52:24,442 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:52:26,295 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:52:26,339 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 16:54:09,026 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:54:12,062 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:54:12,095 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 16:55:15,645 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:55:20,236 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 16:55:20,272 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:13:23,067 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:13:27,332 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:13:27,366 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:14:54,239 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:14:56,343 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:14:56,375 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:15:17,732 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:15:19,501 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:15:19,530 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:16:04,769 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:16:06,460 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:16:06,491 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:16:09,934 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:16:09,963 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:16:32,441 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:16:33,885 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:16:33,921 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:20:52,309 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:20:54,056 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:20:54,088 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:21:05,071 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:21:07,287 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:21:07,317 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:22:17,752 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:22:19,445 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:22:19,477 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:23:05,367 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:23:06,917 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:23:06,952 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:24:29,573 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:24:30,912 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:24:30,942 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:27:24,677 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:27:26,224 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:27:26,262 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:27:41,243 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:27:42,979 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:27:43,010 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:28:27,263 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:28:28,940 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:28:28,978 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:28:43,123 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:29:22,760 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:29:22,798 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:32:41,676 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:32:43,141 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:32:43,174 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:33:25,452 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:33:26,792 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:33:26,821 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:35:10,855 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:12,464 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:12,499 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:35:22,819 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:26,959 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:28,094 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:28,128 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-02 end: 2024-08-05
+2024-10-07 17:35:40,130 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:43,066 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:44,441 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:35:44,472 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
+2024-10-07 17:35:58,007 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:36:03,061 - db_helper - INFO - fetch_expenses_for_date for 2024-10-17
+2024-10-07 17:36:19,892 - db_helper - INFO - fetch_expenses_for_date for 2024-08-05
+2024-10-07 17:36:26,891 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:36:45,845 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:36:45,875 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:38:27,600 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:38:27,626 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:38:29,010 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:38:29,039 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:39:41,355 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:39:41,386 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:44:28,120 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:44:28,220 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:45:39,588 - db_helper - INFO - fetch_expenses_for_date for 2024-10-07
+2024-10-07 17:45:52,055 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:45:55,484 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:45:55,519 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:45:56,896 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:45:56,926 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:46:45,276 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:46:45,303 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:04,103 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:04,147 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:26,046 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:26,074 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:27,570 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:27,599 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:28,700 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:47:28,729 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:48:55,465 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:56:48,825 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:56:48,857 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 17:58:50,592 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:02:24,449 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:02:24,503 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:08:36,348 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:08:43,231 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:08:43,268 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:12:22,570 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:12:31,661 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:12:31,703 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:13:44,077 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:13:44,115 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:13:45,440 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:13:45,478 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:16:03,697 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:16:21,734 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:16:21,784 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:16:21,853 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:17:27,595 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:17:27,648 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:17:27,662 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:18:45,148 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:18:45,190 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:18:45,207 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:18:45,219 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:19:10,115 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:19:10,157 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:19:10,169 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:19:10,181 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:19:10,972 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,031 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,082 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,093 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:19:11,104 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:19:11,276 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,343 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,380 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,397 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:19:11,406 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:19:11,575 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,592 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,670 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:19:11,683 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:19:11,698 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:25:36,341 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:25:36,378 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:25:36,396 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 60.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:25:36,410 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:27:47,544 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:27:47,599 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:27:47,612 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 60.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:27:47,622 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:31:55,767 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:31:55,799 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:31:55,813 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 60.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:31:55,827 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:32:00,127 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:32:00,188 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:32:00,224 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:32:00,240 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 60.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:32:00,257 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:32:00,489 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:32:00,527 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:32:00,548 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 60.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:32:00,560 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:32:58,631 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:32:58,665 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:32:58,680 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 60.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:32:58,691 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:33:18,012 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:33:18,046 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:33:18,060 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 60.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:33:18,069 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:33:35,815 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:33:35,846 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:33:35,856 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:33:35,865 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:34:20,496 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:34:20,534 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:34:20,548 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:34:20,559 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:38:15,801 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:38:15,836 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:38:15,850 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:38:15,862 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:38:28,737 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:38:28,773 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:38:28,786 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:38:28,798 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:39:05,676 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:39:05,712 - db_helper - INFO - delete_expenses_for_date for 2024-08-17
+2024-10-07 18:39:05,726 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 50.0, category: Food, notes: vadapav, dosa
+2024-10-07 18:39:05,737 - db_helper - INFO - insert_expense with date: 2024-08-17, amount: 100.0, category: Entertainment, notes: movie ticket taken
+2024-10-07 18:40:43,869 - db_helper - INFO - fetch_expenses_for_date for 2024-08-17
+2024-10-07 18:40:43,918 - db_helper - INFO - fetch_expenses_summery with start: 2024-08-15 end: 2024-08-17
